@@ -1,0 +1,1018 @@
+
+
+***********************ICMP Packet*************************
+Packet Date/Time : 2017-10-15 23:31:11.572757 
+
+Ether type : IP
+
+Ethernet Header
+   |-Destination Address : B0-B2-8F-6D-EC-99 
+   |-Source Address      : FC-F8-AE-15-F6-A8 
+   |-Protocol            : 8 
+
+IP Header
+   |-IP Version        : 4
+   |-IP Header Length  : 5 DWORDS or 20 Bytes
+   |-Type Of Service   : 0
+   |-IP Total Length   : 84  Bytes(Size of Packet)
+   |-Identification    : 32157
+   |-TTL      : 64
+   |-Protocol : 1
+   |-Checksum : 53624
+   |-Source IP        : 192.168.1.17
+   |-Destination IP   : 185.192.112.25
+
+ICMP Header
+   |-Type : 8   |-Code : 0
+   |-Checksum : 48200
+
+IP Header
+    B0         ...m..........E.
+    00                                             .T}.
+
+UDP Header
+    40                                 @.@..x..
+€:¢
+Data Payload
+    FF         .'.Y....I.......
+    10         ................
+    20          !"#$%&'()*+,-./
+    30                                 01234567
+b
+
+###########################################################
+
+***********************ICMP Packet*************************
+Packet Date/Time : 2017-10-15 23:31:12.572747 
+
+Ether type : IP
+
+Ethernet Header
+   |-Destination Address : B0-B2-8F-6D-EC-99 
+   |-Source Address      : FC-F8-AE-15-F6-A8 
+   |-Protocol            : 8 
+
+IP Header
+   |-IP Version        : 4
+   |-IP Header Length  : 5 DWORDS or 20 Bytes
+   |-Type Of Service   : 0
+   |-IP Total Length   : 84  Bytes(Size of Packet)
+   |-Identification    : 32230
+   |-TTL      : 64
+   |-Protocol : 1
+   |-Checksum : 53551
+   |-Source IP        : 192.168.1.17
+   |-Destination IP   : 185.192.112.25
+
+ICMP Header
+   |-Type : 8   |-Code : 0
+   |-Checksum : 63296
+
+IP Header
+    B0         ...m..........E.
+    00                                             .T}.
+ 9¢
+UDP Header
+    40                                 @.@../..
+
+
+Data Payload
+    00         .(.Y............
+    10         ................
+    20          !"#$%&'()*+,-./
+    30                                 01234567
+b
+
+###########################################################
+
+***********************ICMP Packet*************************
+Packet Date/Time : 2017-10-15 23:31:13.572758 
+
+Ether type : IP
+
+Ethernet Header
+   |-Destination Address : B0-B2-8F-6D-EC-99 
+   |-Source Address      : FC-F8-AE-15-F6-A8 
+   |-Protocol            : 8 
+
+IP Header
+   |-IP Version        : 4
+   |-IP Header Length  : 5 DWORDS or 20 Bytes
+   |-Type Of Service   : 0
+   |-IP Total Length   : 84  Bytes(Size of Packet)
+   |-Identification    : 32339
+   |-TTL      : 64
+   |-Protocol : 1
+   |-Checksum : 53442
+   |-Source IP        : 192.168.1.17
+   |-Destination IP   : 185.192.112.25
+
+ICMP Header
+   |-Type : 8   |-Code : 0
+   |-Checksum : 15420
+
+IP Header
+    B0         ...m..........E.
+    00                                             .T~S
+ 9¢
+UDP Header
+    40                                 @.@.....
+
+
+Data Payload
+    01         .(.Y............
+    10         ................
+    20          !"#$%&'()*+,-./
+    30                                 01234567
+b
+
+###########################################################
+
+***********************ICMP Packet*************************
+Packet Date/Time : 2017-10-15 23:31:14.576745 
+
+Ether type : IP
+
+Ethernet Header
+   |-Destination Address : B0-B2-8F-6D-EC-99 
+   |-Source Address      : FC-F8-AE-15-F6-A8 
+   |-Protocol            : 8 
+
+IP Header
+   |-IP Version        : 4
+   |-IP Header Length  : 5 DWORDS or 20 Bytes
+   |-Type Of Service   : 0
+   |-IP Total Length   : 84  Bytes(Size of Packet)
+   |-Identification    : 32541
+   |-TTL      : 64
+   |-Protocol : 1
+   |-Checksum : 53240
+   |-Source IP        : 192.168.1.17
+   |-Destination IP   : 185.192.112.25
+
+ICMP Header
+   |-Type : 8   |-Code : 0
+   |-Checksum : 30775
+
+IP Header
+    B0         ...m..........E.
+    00                                             .T.
+ 9¢
+UDP Header
+    40                                 @.@.....
+
+
+Data Payload
+    02         .(.Y............
+    10         ................
+    20          !"#$%&'()*+,-./
+    30                                 01234567
+b
+
+###########################################################
+
+***********************ICMP Packet*************************
+Packet Date/Time : 2017-10-15 23:31:15.576756 
+
+Ether type : IP
+
+Ethernet Header
+   |-Destination Address : B0-B2-8F-6D-EC-99 
+   |-Source Address      : FC-F8-AE-15-F6-A8 
+   |-Protocol            : 8 
+
+IP Header
+   |-IP Version        : 4
+   |-IP Header Length  : 5 DWORDS or 20 Bytes
+   |-Type Of Service   : 0
+   |-IP Total Length   : 84  Bytes(Size of Packet)
+   |-Identification    : 32549
+   |-TTL      : 64
+   |-Protocol : 1
+   |-Checksum : 53232
+   |-Source IP        : 192.168.1.17
+   |-Destination IP   : 185.192.112.25
+
+ICMP Header
+   |-Type : 8   |-Code : 0
+   |-Checksum : 38447
+
+IP Header
+    B0         ...m..........E.
+    00                                             .T%
+ 9¢
+UDP Header
+    40                                 @.@.....
+
+
+Data Payload
+    03         .(.Y....k.......
+    10         ................
+    20          !"#$%&'()*+,-./
+    30                                 01234567
+b
+
+###########################################################
+
+***********************ICMP Packet*************************
+Packet Date/Time : 2017-10-15 23:31:16.576747 
+
+Ether type : IP
+
+Ethernet Header
+   |-Destination Address : B0-B2-8F-6D-EC-99 
+   |-Source Address      : FC-F8-AE-15-F6-A8 
+   |-Protocol            : 8 
+
+IP Header
+   |-IP Version        : 4
+   |-IP Header Length  : 5 DWORDS or 20 Bytes
+   |-Type Of Service   : 0
+   |-IP Total Length   : 84  Bytes(Size of Packet)
+   |-Identification    : 32685
+   |-TTL      : 64
+   |-Protocol : 1
+   |-Checksum : 53096
+   |-Source IP        : 192.168.1.17
+   |-Destination IP   : 185.192.112.25
+
+ICMP Header
+   |-Type : 8   |-Code : 0
+   |-Checksum : 60711
+
+IP Header
+    B0         ...m..........E.
+    00                                             .T.
+ 9¢
+UDP Header
+    40                                 @.@..h..
+
+
+Data Payload
+    04         .(.Y............
+    10         ................
+    20          !"#$%&'()*+,-./
+    30                                 01234567
+b
+
+###########################################################
+
+***********************ICMP Packet*************************
+Packet Date/Time : 2017-10-15 23:31:17.580761 
+
+Ether type : IP
+
+Ethernet Header
+   |-Destination Address : B0-B2-8F-6D-EC-99 
+   |-Source Address      : FC-F8-AE-15-F6-A8 
+   |-Protocol            : 8 
+
+IP Header
+   |-IP Version        : 4
+   |-IP Header Length  : 5 DWORDS or 20 Bytes
+   |-Type Of Service   : 0
+   |-IP Total Length   : 84  Bytes(Size of Packet)
+   |-Identification    : 32884
+   |-TTL      : 64
+   |-Protocol : 1
+   |-Checksum : 52897
+   |-Source IP        : 192.168.1.17
+   |-Destination IP   : 185.192.112.25
+
+ICMP Header
+   |-Type : 8   |-Code : 0
+   |-Checksum : 3109
+
+IP Header
+    B0         ...m..........E.
+    00                                             .T€t
+ 9¢
+UDP Header
+    40                                 @.@.....
+
+
+Data Payload
+    05         .(.Y............
+    10         ................
+    20          !"#$%&'()*+,-./
+    30                                 01234567
+b
+
+###########################################################
+
+***********************ICMP Packet*************************
+Packet Date/Time : 2017-10-15 23:31:18.580762 
+
+Ether type : IP
+
+Ethernet Header
+   |-Destination Address : B0-B2-8F-6D-EC-99 
+   |-Source Address      : FC-F8-AE-15-F6-A8 
+   |-Protocol            : 8 
+
+IP Header
+   |-IP Version        : 4
+   |-IP Header Length  : 5 DWORDS or 20 Bytes
+   |-Type Of Service   : 0
+   |-IP Total Length   : 84  Bytes(Size of Packet)
+   |-Identification    : 33081
+   |-TTL      : 64
+   |-Protocol : 1
+   |-Checksum : 52700
+   |-Source IP        : 192.168.1.17
+   |-Destination IP   : 185.192.112.25
+
+ICMP Header
+   |-Type : 8   |-Code : 0
+   |-Checksum : 20511
+
+IP Header
+    B0         ...m..........E.
+    00                                             .T.9
+ 9¢
+UDP Header
+    40                                 @.@.....
+
+
+Data Payload
+    06         .(.Y............
+    10         ................
+    20          !"#$%&'()*+,-./
+    30                                 01234567
+b
+
+###########################################################
+
+***********************ICMP Packet*************************
+Packet Date/Time : 2017-10-15 23:31:19.588757 
+
+Ether type : IP
+
+Ethernet Header
+   |-Destination Address : B0-B2-8F-6D-EC-99 
+   |-Source Address      : FC-F8-AE-15-F6-A8 
+   |-Protocol            : 8 
+
+IP Header
+   |-IP Version        : 4
+   |-IP Header Length  : 5 DWORDS or 20 Bytes
+   |-Type Of Service   : 0
+   |-IP Total Length   : 84  Bytes(Size of Packet)
+   |-Identification    : 33112
+   |-TTL      : 64
+   |-Protocol : 1
+   |-Checksum : 52669
+   |-Source IP        : 192.168.1.17
+   |-Destination IP   : 185.192.112.25
+
+ICMP Header
+   |-Type : 8   |-Code : 0
+   |-Checksum : 40699
+
+IP Header
+    B0         ...m..........E.
+    00                                             .T.X
+ 9¢
+UDP Header
+    40                                 @.@.....
+
+
+Data Payload
+    07         .(.Y....^.......
+    10         ................
+    20          !"#$%&'()*+,-./
+    30                                 01234567
+b
+
+###########################################################
+
+***********************ICMP Packet*************************
+Packet Date/Time : 2017-10-15 23:31:20.588763 
+
+Ether type : IP
+
+Ethernet Header
+   |-Destination Address : B0-B2-8F-6D-EC-99 
+   |-Source Address      : FC-F8-AE-15-F6-A8 
+   |-Protocol            : 8 
+
+IP Header
+   |-IP Version        : 4
+   |-IP Header Length  : 5 DWORDS or 20 Bytes
+   |-Type Of Service   : 0
+   |-IP Total Length   : 84  Bytes(Size of Packet)
+   |-Identification    : 33228
+   |-TTL      : 64
+   |-Protocol : 1
+   |-Checksum : 52553
+   |-Source IP        : 192.168.1.17
+   |-Destination IP   : 185.192.112.25
+
+ICMP Header
+   |-Type : 8   |-Code : 0
+   |-Checksum : 37109
+
+IP Header
+    B0         ...m..........E.
+    00                                             .T..
+ 9¢
+UDP Header
+    40                                 @.@..I..
+
+
+Data Payload
+    08         .(.Y....k.......
+    10         ................
+    20          !"#$%&'()*+,-./
+    30                                 01234567
+b
+
+###########################################################
+
+***********************ICMP Packet*************************
+Packet Date/Time : 2017-10-15 23:31:21.592763 
+
+Ether type : IP
+
+Ethernet Header
+   |-Destination Address : B0-B2-8F-6D-EC-99 
+   |-Source Address      : FC-F8-AE-15-F6-A8 
+   |-Protocol            : 8 
+
+IP Header
+   |-IP Version        : 4
+   |-IP Header Length  : 5 DWORDS or 20 Bytes
+   |-Type Of Service   : 0
+   |-IP Total Length   : 84  Bytes(Size of Packet)
+   |-Identification    : 33387
+   |-TTL      : 64
+   |-Protocol : 1
+   |-Checksum : 52394
+   |-Source IP        : 192.168.1.17
+   |-Destination IP   : 185.192.112.25
+
+ICMP Header
+   |-Type : 8   |-Code : 0
+   |-Checksum : 49392
+
+IP Header
+    B0         ...m..........E.
+    00                                             .T.k
+ 9¢
+UDP Header
+    40                                 @.@.....
+
+
+Data Payload
+    09         .(.Y....:.......
+    10         ................
+    20          !"#$%&'()*+,-./
+    30                                 01234567
+b
+
+###########################################################
+
+***********************ICMP Packet*************************
+Packet Date/Time : 2017-10-15 23:31:22.592744 
+
+Ether type : IP
+
+Ethernet Header
+   |-Destination Address : B0-B2-8F-6D-EC-99 
+   |-Source Address      : FC-F8-AE-15-F6-A8 
+   |-Protocol            : 8 
+
+IP Header
+   |-IP Version        : 4
+   |-IP Header Length  : 5 DWORDS or 20 Bytes
+   |-Type Of Service   : 0
+   |-IP Total Length   : 84  Bytes(Size of Packet)
+   |-Identification    : 33390
+   |-TTL      : 64
+   |-Protocol : 1
+   |-Checksum : 52391
+   |-Source IP        : 192.168.1.17
+   |-Destination IP   : 185.192.112.25
+
+ICMP Header
+   |-Type : 8   |-Code : 0
+   |-Checksum : 44011
+
+IP Header
+    B0         ...m..........E.
+    00                                             .T.n
+ 9¢
+UDP Header
+    40                                 @.@.....
+
+
+Data Payload
+    0A         .(.Y....N.......
+    10         ................
+    20          !"#$%&'()*+,-./
+    30                                 01234567
+b
+
+###########################################################
+
+***********************ICMP Packet*************************
+Packet Date/Time : 2017-10-15 23:31:23.592744 
+
+Ether type : IP
+
+Ethernet Header
+   |-Destination Address : B0-B2-8F-6D-EC-99 
+   |-Source Address      : FC-F8-AE-15-F6-A8 
+   |-Protocol            : 8 
+
+IP Header
+   |-IP Version        : 4
+   |-IP Header Length  : 5 DWORDS or 20 Bytes
+   |-Type Of Service   : 0
+   |-IP Total Length   : 84  Bytes(Size of Packet)
+   |-Identification    : 33542
+   |-TTL      : 64
+   |-Protocol : 1
+   |-Checksum : 52239
+   |-Source IP        : 192.168.1.17
+   |-Destination IP   : 185.192.112.25
+
+ICMP Header
+   |-Type : 8   |-Code : 0
+   |-Checksum : 14310
+
+IP Header
+    B0         ...m..........E.
+    00                                             .T..
+ 9¢
+UDP Header
+    40                                 @.@.....
+
+
+Data Payload
+    0B         .(.Y............
+    10         ................
+    20          !"#$%&'()*+,-./
+    30                                 01234567
+b
+
+###########################################################
+
+***********************ICMP Packet*************************
+Packet Date/Time : 2017-10-15 23:31:24.596757 
+
+Ether type : IP
+
+Ethernet Header
+   |-Destination Address : B0-B2-8F-6D-EC-99 
+   |-Source Address      : FC-F8-AE-15-F6-A8 
+   |-Protocol            : 8 
+
+IP Header
+   |-IP Version        : 4
+   |-IP Header Length  : 5 DWORDS or 20 Bytes
+   |-Type Of Service   : 0
+   |-IP Total Length   : 84  Bytes(Size of Packet)
+   |-Identification    : 33577
+   |-TTL      : 64
+   |-Protocol : 1
+   |-Checksum : 52204
+   |-Source IP        : 192.168.1.17
+   |-Destination IP   : 185.192.112.25
+
+ICMP Header
+   |-Type : 8   |-Code : 0
+   |-Checksum : 23775
+
+IP Header
+    B0         ...m..........E.
+    00                                             .T.)
+ 9¢
+UDP Header
+    40                                 @.@.....
+
+
+Data Payload
+    0C         .(.Y............
+    10         ................
+    20          !"#$%&'()*+,-./
+    30                                 01234567
+b
+
+###########################################################
+
+***********************ICMP Packet*************************
+Packet Date/Time : 2017-10-15 23:31:25.596744 
+
+Ether type : IP
+
+Ethernet Header
+   |-Destination Address : B0-B2-8F-6D-EC-99 
+   |-Source Address      : FC-F8-AE-15-F6-A8 
+   |-Protocol            : 8 
+
+IP Header
+   |-IP Version        : 4
+   |-IP Header Length  : 5 DWORDS or 20 Bytes
+   |-Type Of Service   : 0
+   |-IP Total Length   : 84  Bytes(Size of Packet)
+   |-Identification    : 33636
+   |-TTL      : 64
+   |-Protocol : 1
+   |-Checksum : 52145
+   |-Source IP        : 192.168.1.17
+   |-Destination IP   : 185.192.112.25
+
+ICMP Header
+   |-Type : 8   |-Code : 0
+   |-Checksum : 32218
+
+IP Header
+    B0         ...m..........E.
+    00                                             .T.d
+ 9¢
+UDP Header
+    40                                 @.@.....
+
+
+Data Payload
+    0D         .(.Y....y.......
+    10         ................
+    20          !"#$%&'()*+,-./
+    30                                 01234567
+b
+
+###########################################################
+
+***********************ICMP Packet*************************
+Packet Date/Time : 2017-10-15 23:31:26.596759 
+
+Ether type : IP
+
+Ethernet Header
+   |-Destination Address : B0-B2-8F-6D-EC-99 
+   |-Source Address      : FC-F8-AE-15-F6-A8 
+   |-Protocol            : 8 
+
+IP Header
+   |-IP Version        : 4
+   |-IP Header Length  : 5 DWORDS or 20 Bytes
+   |-Type Of Service   : 0
+   |-IP Total Length   : 84  Bytes(Size of Packet)
+   |-Identification    : 33880
+   |-TTL      : 64
+   |-Protocol : 1
+   |-Checksum : 51901
+   |-Source IP        : 192.168.1.17
+   |-Destination IP   : 185.192.112.25
+
+ICMP Header
+   |-Type : 8   |-Code : 0
+   |-Checksum : 47829
+
+IP Header
+    B0         ...m..........E.
+    00                                             .T.X
+ 9¢
+UDP Header
+    40                                 @.@.....
+
+
+Data Payload
+    0E         .(.Y....;.......
+    10         ................
+    20          !"#$%&'()*+,-./
+    30                                 01234567
+b
+
+###########################################################
+
+***********************ICMP Packet*************************
+Packet Date/Time : 2017-10-15 23:31:27.596745 
+
+Ether type : IP
+
+Ethernet Header
+   |-Destination Address : B0-B2-8F-6D-EC-99 
+   |-Source Address      : FC-F8-AE-15-F6-A8 
+   |-Protocol            : 8 
+
+IP Header
+   |-IP Version        : 4
+   |-IP Header Length  : 5 DWORDS or 20 Bytes
+   |-Type Of Service   : 0
+   |-IP Total Length   : 84  Bytes(Size of Packet)
+   |-Identification    : 33948
+   |-TTL      : 64
+   |-Protocol : 1
+   |-Checksum : 51833
+   |-Source IP        : 192.168.1.17
+   |-Destination IP   : 185.192.112.25
+
+ICMP Header
+   |-Type : 8   |-Code : 0
+   |-Checksum : 60880
+
+IP Header
+    B0         ...m..........E.
+    00                                             .T..
+ 9¢
+UDP Header
+    40                                 @.@..y..
+
+
+Data Payload
+    0F         .(.Y............
+    10         ................
+    20          !"#$%&'()*+,-./
+    30                                 01234567
+b
+
+###########################################################
+
+***********************ICMP Packet*************************
+Packet Date/Time : 2017-10-15 23:31:28.596758 
+
+Ether type : IP
+
+Ethernet Header
+   |-Destination Address : B0-B2-8F-6D-EC-99 
+   |-Source Address      : FC-F8-AE-15-F6-A8 
+   |-Protocol            : 8 
+
+IP Header
+   |-IP Version        : 4
+   |-IP Header Length  : 5 DWORDS or 20 Bytes
+   |-Type Of Service   : 0
+   |-IP Total Length   : 84  Bytes(Size of Packet)
+   |-Identification    : 33983
+   |-TTL      : 64
+   |-Protocol : 1
+   |-Checksum : 51798
+   |-Source IP        : 192.168.1.17
+   |-Destination IP   : 185.192.112.25
+
+ICMP Header
+   |-Type : 8   |-Code : 0
+   |-Checksum : 60620
+
+IP Header
+    B0         ...m..........E.
+    00                                             .T..
+ 9¢
+UDP Header
+    40                                 @.@..V..
+
+
+Data Payload
+    10         .(.Y............
+    10         ................
+    20          !"#$%&'()*+,-./
+    30                                 01234567
+b
+
+###########################################################
+
+***********************ICMP Packet*************************
+Packet Date/Time : 2017-10-15 23:31:29.600746 
+
+Ether type : IP
+
+Ethernet Header
+   |-Destination Address : B0-B2-8F-6D-EC-99 
+   |-Source Address      : FC-F8-AE-15-F6-A8 
+   |-Protocol            : 8 
+
+IP Header
+   |-IP Version        : 4
+   |-IP Header Length  : 5 DWORDS or 20 Bytes
+   |-Type Of Service   : 0
+   |-IP Total Length   : 84  Bytes(Size of Packet)
+   |-Identification    : 34200
+   |-TTL      : 64
+   |-Protocol : 1
+   |-Checksum : 51581
+   |-Source IP        : 192.168.1.17
+   |-Destination IP   : 185.192.112.25
+
+ICMP Header
+   |-Type : 8   |-Code : 0
+   |-Checksum : 20424
+
+IP Header
+    B0         ...m..........E.
+    00                                             .T..
+ 9¢
+UDP Header
+    40                                 @.@..}..
+
+
+Data Payload
+    11         .(.Y............
+    10         ................
+    20          !"#$%&'()*+,-./
+    30                                 01234567
+b
+
+###########################################################
+
+***********************ICMP Packet*************************
+Packet Date/Time : 2017-10-15 23:31:30.600751 
+
+Ether type : IP
+
+Ethernet Header
+   |-Destination Address : B0-B2-8F-6D-EC-99 
+   |-Source Address      : FC-F8-AE-15-F6-A8 
+   |-Protocol            : 8 
+
+IP Header
+   |-IP Version        : 4
+   |-IP Header Length  : 5 DWORDS or 20 Bytes
+   |-Type Of Service   : 0
+   |-IP Total Length   : 84  Bytes(Size of Packet)
+   |-Identification    : 34248
+   |-TTL      : 64
+   |-Protocol : 1
+   |-Checksum : 51533
+   |-Source IP        : 192.168.1.17
+   |-Destination IP   : 185.192.112.25
+
+ICMP Header
+   |-Type : 8   |-Code : 0
+   |-Checksum : 35523
+
+IP Header
+    B0         ...m..........E.
+    00                                             .T..
+ 9¢
+UDP Header
+    40                                 @.@..M..
+
+
+Data Payload
+    12         .(.Y....g!......
+    10         ................
+    20          !"#$%&'()*+,-./
+    30                                 01234567
+b
+
+###########################################################
+
+***********************ICMP Packet*************************
+Packet Date/Time : 2017-10-15 23:31:31.600756 
+
+Ether type : IP
+
+Ethernet Header
+   |-Destination Address : B0-B2-8F-6D-EC-99 
+   |-Source Address      : FC-F8-AE-15-F6-A8 
+   |-Protocol            : 8 
+
+IP Header
+   |-IP Version        : 4
+   |-IP Header Length  : 5 DWORDS or 20 Bytes
+   |-Type Of Service   : 0
+   |-IP Total Length   : 84  Bytes(Size of Packet)
+   |-Identification    : 34283
+   |-TTL      : 64
+   |-Protocol : 1
+   |-Checksum : 51498
+   |-Source IP        : 192.168.1.17
+   |-Destination IP   : 185.192.112.25
+
+ICMP Header
+   |-Type : 8   |-Code : 0
+   |-Checksum : 42430
+
+IP Header
+    B0         ...m..........E.
+    00                                             .T..
+ 9¢
+UDP Header
+    40                                 @.@..*..
+
+
+Data Payload
+    13         .(.Y....K%......
+    10         ................
+    20          !"#$%&'()*+,-./
+    30                                 01234567
+b
+
+###########################################################
+
+***********************ICMP Packet*************************
+Packet Date/Time : 2017-10-15 23:31:32.600746 
+
+Ether type : IP
+
+Ethernet Header
+   |-Destination Address : B0-B2-8F-6D-EC-99 
+   |-Source Address      : FC-F8-AE-15-F6-A8 
+   |-Protocol            : 8 
+
+IP Header
+   |-IP Version        : 4
+   |-IP Header Length  : 5 DWORDS or 20 Bytes
+   |-Type Of Service   : 0
+   |-IP Total Length   : 84  Bytes(Size of Packet)
+   |-Identification    : 34497
+   |-TTL      : 64
+   |-Protocol : 1
+   |-Checksum : 51284
+   |-Source IP        : 192.168.1.17
+   |-Destination IP   : 185.192.112.25
+
+ICMP Header
+   |-Type : 8   |-Code : 0
+   |-Checksum : 30137
+
+IP Header
+    B0         ...m..........E.
+    00                                             .T..
+ 9¢
+UDP Header
+    40                                 @.@..T..
+
+
+Data Payload
+    14         .(.Y....z)......
+    10         ................
+    20          !"#$%&'()*+,-./
+    30                                 01234567
+b
+
+###########################################################
+
+***********************ICMP Packet*************************
+Packet Date/Time : 2017-10-15 23:31:33.604745 
+
+Ether type : IP
+
+Ethernet Header
+   |-Destination Address : B0-B2-8F-6D-EC-99 
+   |-Source Address      : FC-F8-AE-15-F6-A8 
+   |-Protocol            : 8 
+
+IP Header
+   |-IP Version        : 4
+   |-IP Header Length  : 5 DWORDS or 20 Bytes
+   |-Type Of Service   : 0
+   |-IP Total Length   : 84  Bytes(Size of Packet)
+   |-Identification    : 34527
+   |-TTL      : 64
+   |-Protocol : 1
+   |-Checksum : 51254
+   |-Source IP        : 192.168.1.17
+   |-Destination IP   : 185.192.112.25
+
+ICMP Header
+   |-Type : 8   |-Code : 0
+   |-Checksum : 26034
+
+IP Header
+    B0         ...m..........E.
+    00                                             .T..
+ 9¢
+UDP Header
+    40                                 @.@..6..
+
+
+Data Payload
+    15         .(.Y...../......
+    10         ................
+    20          !"#$%&'()*+,-./
+    30                                 01234567
+b
+
+###########################################################
+
+***********************ICMP Packet*************************
+Packet Date/Time : 2017-10-15 23:31:34.604757 
+
+Ether type : IP
+
+Ethernet Header
+   |-Destination Address : B0-B2-8F-6D-EC-99 
+   |-Source Address      : FC-F8-AE-15-F6-A8 
+   |-Protocol            : 8 
+
+IP Header
+   |-IP Version        : 4
+   |-IP Header Length  : 5 DWORDS or 20 Bytes
+   |-Type Of Service   : 0
+   |-IP Total Length   : 84  Bytes(Size of Packet)
+   |-Identification    : 34749
+   |-TTL      : 64
+   |-Protocol : 1
+   |-Checksum : 51032
+   |-Source IP        : 192.168.1.17
+   |-Destination IP   : 185.192.112.25
+
+ICMP Header
+   |-Type : 8   |-Code : 0
+   |-Checksum : 29613
+
+IP Header
+    B0        

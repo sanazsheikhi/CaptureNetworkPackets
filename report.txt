@@ -1,0 +1,77 @@
+							Network Security homework #2
+
+							
+							What does the program do :
+
+The program "mydump" has been developed to capture network packets from either a network device or file in pcap format.It can listen to a specific device defined by user or a default device selected automatically. It applies the BPF (Berkly Packet Filter) and captures packets which match the BPF if any. In case there is no BPF criteria it dumps all the packets. Then, if there is any expression infront of -s switch it searches the expression in the payload of the packets. In case it finds the expression in payload it starts to analyze the packet headers and extract packet information to write in output file. If it doesn't find the expression in payload it doesn't analyze it. The program work in promiscuous mode, meaning it continues to capture packets infinitely untill the user stops it (for example by pressing ctrl + c ).
+
+						
+							Structure of the program and implementation:
+
+In this part a high level structure of the program would be described by focusing on functionality of important functions.
+
+1 - main() :
+
+All the program code is in mydump.c file. The first part of the main() function is developed to capture the command line arguments which are switches like -i , -r, -s and their values using getopt() function and parse them. Then it starts to create a handle based on -i or -r switches to find the source of the packets. In next step before capturing the packets it applies the BPF filter using pcap_compile() function and then starts to sniff using pcap_loop(). 
+
+2 - pcap_open_offline():
+Opens a pcap format file provided by -r swith for reading as packet source.
+
+3 - pcap_lookupdev:
+Finds an interface to sniff. It would be called if -i or -r switches are not provided to program.
+
+4- pcap_lookupnet() and pcap_setfilter():
+
+these function are used to apply the BPF to packet capturing mechanism.
+
+5- pcap_loop(handle , -1 , process_packet , (u_char*)search):
+
+*  sniffs a device or file using handle
+*  works in promiscuous mode because it's second argument is -1
+*  calls process_packet() function upon recieving each  new packet
+*  sends a string named "search" in addition to a packet to callbackfunction processpacket to be searched in payload.
+
+
+6- process_packet() :
+
+It extract the protocol type of the packet from ip header and based on it calls one of the following function to decide whether to analyze it or not and extract it the packet information.
+
+7 -print_icmp_packet():
+
+This function looks for the expression the user pass to program in the payload of the packet. If finds it it starts to extract information such as source port, destination port, header length , ...from tcp header and prints them in an output file in an organized and human readable format.
+If the function doesn't find the search expression  in payload it returns and does nothing.
+Besides the icmp header informations this function calls two other function which extract ip header and ethernet header information which would be described later.
+
+8- print_udp_packet() and print_tcp_packet():
+
+Work like print_icmp_packet() .
+
+
+9- print_ethernet_header() :
+Analyzing the ethernet heder, it extract the source Mac Address, Destination Mac Address and protocol number and writes this information in output file.
+
+
+10- print_ip_header():
+
+Scrutinizes the ip header seeking source ip address, destination ip address and a lot of more information.
+
+11- payloadSearch() :
+
+This function searches the packet payload to find the expression provided by user.
+
+					Where is the output
+Output of all the above functions would be written in a file named log.txt in the current directory of the program.
+The log,txt existing in this package is output for the following run of the program :
+
+./mydump src host 192.168.1.17 and dst host 185.192.112.25
+
+It captured packet from one of automatically selected interfaces and apppled the BPF.
+
+					How to run the program:
+You should be a root user to run the program. Otherwise it issues an error while opening the interface to sniff.
+
+
+
+
+
+
